@@ -266,12 +266,6 @@ Contributions are what make the open-source community such an amazing place to l
 
 Distributed under the MIT License. See `LICENSE` for more information. ⚖️
 
-## 📧 Contact
-
-Mayank Mittal - 👨‍💻 mayankmittal29042004@gmail.com
-
-Project Link: [https://github.com/mayankmittal29/MediMind](https://github.com/mayankmittal29/MediMind) 🔗
-
 ---
 
 ⭐ Star this repo if you found it useful! ⭐
