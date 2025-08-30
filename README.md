@@ -7,7 +7,7 @@
 ## 📑 Table of Contents
 - [About The Project](#about-the-project)
 - [Features](#features)
-- [Project Structure](#project-structure)
+- [Project Structure](#project-structure) 
 - [Tech Stack](#tech-stack)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
