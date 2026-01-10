@@ -5,7 +5,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## 📑 Table of Contents
-- [About The Project](#about-the-project)    
+- [About The Project](#about-the-project)      
 - [Features](#features)   
 - [Project Structure](#project-structure) 
 - [Tech Stack](#tech-stack)
