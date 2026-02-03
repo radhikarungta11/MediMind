@@ -2,7 +2,7 @@ from flask import Flask, render_template, request
 from dotenv import load_dotenv
 import os  
 from langchain_pinecone import PineconeVectorStore
-from src.helper import download_hugging_face_embeddings
+from src.helper import download_hugging_face_embeddings   
 from src.prompt import system_prompt  
 from langchain_core.documents import Document
 from huggingface_hub import InferenceClient
