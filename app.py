@@ -1,4 +1,4 @@
-from flask import Flask, render_template, request
+from flask import Flask, render_template, request  
 from dotenv import load_dotenv
 import os
 from langchain_pinecone import PineconeVectorStore
