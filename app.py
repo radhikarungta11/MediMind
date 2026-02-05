@@ -5,7 +5,7 @@ from langchain_pinecone import PineconeVectorStore
 from src.helper import download_hugging_face_embeddings   
 from src.prompt import system_prompt  
 from langchain_core.documents import Document
-from huggingface_hub import InferenceClient
+from huggingface_hub import InferenceClient  
 
 app = Flask(__name__)
 load_dotenv()
