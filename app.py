@@ -11,7 +11,7 @@ app = Flask(__name__)
 load_dotenv()
 
 # Load environment variables
-os.environ["PINECONE_API_KEY"] = os.getenv("PINECONE_API_KEY")
+os.environ["PINECONE_API_KEY"] = os.getenv("PINECONE_API_KEY")   
 HUGGINGFACEHUB_API_TOKEN = os.getenv("HUGGINGFACEHUB_API_TOKEN")
 
 # Load HF client
