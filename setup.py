@@ -5,7 +5,7 @@ setup(
     version= '0.0.0',
     author= 'Bappy Ahmed',
     author_email= 'entbappy73@gmail.com',
-    packages= find_packages(),
+    packages= find_packages(),   
     install_requires = []
 
 )
