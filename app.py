@@ -1,5 +1,5 @@
 from flask import Flask, render_template, request  
-from dotenv import load_dotenv
+from dotenv import load_dotenv  
 import os  
 from langchain_pinecone import PineconeVectorStore    
 from src.helper import download_hugging_face_embeddings   
