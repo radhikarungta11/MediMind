@@ -2,7 +2,7 @@ sentence-transformers==2.2.2
 langchain
 flask  
 pypdf
-python-dotenv
+python-dotenv  
 pinecone[grpc]
 langchain-pinecone
 langchain_community
