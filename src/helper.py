@@ -4,7 +4,7 @@ from langchain.embeddings import HuggingFaceEmbeddings
   
       
 #Extract Data From the PDF File       
-def load_pdf_file(data):      
+def load_pdf_file(data):        
     loader= DirectoryLoader(data,  
                             glob="*.pdf",
                             loader_cls=PyPDFLoader)
